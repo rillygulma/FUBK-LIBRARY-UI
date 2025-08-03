@@ -2,7 +2,7 @@ import StaffCard from './StaffCard';
 import UL from '../assets/UL.jpg';
 import Rilwanu from '../assets/Slack-Img.jpg';
 import Reader_Services from '../assets/Musa Kaystal.jpg';
-import ICT_Librian from '../assets/Mubarak.JPG';
+import ICT_Librian from '../assets/Mubarak.jpg';
 import Prossing_Librian from '../assets/John.JPG';
 import HeadOfCOHS from '../assets/Zubairu.jpeg';
 import hassan from '../assets/Hassan.jpeg';

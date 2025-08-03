@@ -4,7 +4,7 @@ import Rilwanu from '../assets/Slack-Img.jpg';
 import Reader_Services from '../assets/Musa Kaystal.jpg';
 import ICT_Librian from '../assets/Mubarak.jpg';
 import Prossing_Librian from '../assets/John.JPG';
-import HeadOfCOHS from '../assets/Zubairu.jpeg';
+import HeadOfCOHS from '../assets/zubairu.jpeg';
 import hassan from '../assets/Hassan.jpeg';
 import usman from '../assets/usman.jpeg';
 

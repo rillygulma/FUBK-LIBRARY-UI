@@ -1,4 +1,4 @@
-import Banner from '../components/banner';
+import Banner from '../components/Banner';
 import RecentBooks from '../components/RecentBooks';
 
 const Home = () => {
